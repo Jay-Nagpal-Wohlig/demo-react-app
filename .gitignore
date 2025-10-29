@@ -1,2 +1,4 @@
 node_modules
 tree.md 
+.DS_Store
+.env
